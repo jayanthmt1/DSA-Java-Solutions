@@ -8,11 +8,11 @@ This repository documents my journey mastering Data Structures & Algorithms.
 | Category | Topics Covered | Status |
 | :--- | :--- | :--- |
 | **Arrays** | Binary Search, Two Pointers | 🟢 Active |
+| **Stacks & Queues** | Stack Operations | 🟢 Active |
 | **Linked Lists** | - | ⚪ Pending |
-| **Stacks/Queues** | - | ⚪ Pending |
-| **Trees/Graphs** | - | ⚪ Pending |
-| **DP** | - | ⚪ Pending |
+| **Trees & Graphs** | - | ⚪ Pending |
+| **Dynamic Programming** | - | ⚪ Pending |
 
 ## 🛠️ How to navigate
 * Each solution includes a comment block explaining the **Time & Space Complexity**.
-* Organized by topic folders (e.g., `/Arrays`, `/Trees`).
+* Organized by topic folders (e.g., `/Arrays`, `/Stacks`).
